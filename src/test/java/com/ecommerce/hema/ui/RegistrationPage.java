@@ -1,14 +1,11 @@
 package com.ecommerce.hema.ui;
 
-import com.ecommerce.hema.TestData.TestData;
 import static com.ecommerce.hema.context.EcommContext.UserTypeEnum;
 
-import com.ecommerce.hema.context.EcommContext;
 import com.ecommerce.hema.context.TestContext;
 import net.serenitybdd.core.pages.PageObject;
 import org.openqa.selenium.By;
 
-import java.util.List;
 import java.util.Map;
 
 public class RegistrationPage extends PageObject {

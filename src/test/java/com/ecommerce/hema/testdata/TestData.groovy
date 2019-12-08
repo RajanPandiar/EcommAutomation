@@ -1,4 +1,4 @@
-package com.ecommerce.hema.TestData
+package com.ecommerce.hema.testdata
 
 class TestData {
         static Users = [
