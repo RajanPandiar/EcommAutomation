@@ -1,6 +1,6 @@
 package com.ecommerce.hema.context
 
-import com.ecommerce.hema.TestData.TestData
+import com.ecommerce.hema.testdata.TestData
 import org.openqa.selenium.WebDriver
 
 class EcommContext {
