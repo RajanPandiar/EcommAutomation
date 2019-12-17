@@ -15,7 +15,7 @@ import static com.ecommerce.hema.context.EcommContext.UserTypeEnum.EXISTINGUSER;
 
 
 @RunWith(SerenityRunner.class)
-public class shouldBeAbleToLogOutAsAnExistingUser {
+public class shouldBeAbleToLogOutAsAnExistingUserTest {
 
 
 
