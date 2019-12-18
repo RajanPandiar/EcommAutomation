@@ -8,10 +8,10 @@ stages{
                }
             }
         }
-     stage('Integration Testing Phase') {
+     stage('Integration Testing and Report') {
          steps  {
                 withMaven(maven: 'TestMaven') {
-                bat 'mvn verify'
+                bat 'mvn clean install'
                  }
              }
         }
