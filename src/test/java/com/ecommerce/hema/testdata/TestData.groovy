@@ -5,7 +5,7 @@ class TestData {
             NEWUSER:[
                     firstName: 'Test',
                     lastName:'User',
-                    emailAddress: 'abc2000@gmail.com',
+                    emailAddress: 'abcdef123@gmail.com',
                     postalCode:'15KL',
                     address:'Baker Street',
                     city:'London',

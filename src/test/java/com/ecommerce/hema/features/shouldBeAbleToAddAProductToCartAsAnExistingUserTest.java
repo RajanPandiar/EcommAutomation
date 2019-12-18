@@ -16,7 +16,7 @@ import static com.ecommerce.hema.context.EcommContext.ProductCategoryEnum.BABY;
 
 
 @RunWith(SerenityRunner.class)
-public class shouldBeAbleToAddAProductToCartAsAnExistingUser {
+public class shouldBeAbleToAddAProductToCartAsAnExistingUserTest {
 
 
 
