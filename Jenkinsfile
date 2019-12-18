@@ -4,14 +4,14 @@ stages{
      stage('Compile Stage') {
         steps  {
             withMaven(maven: 'TestMaven') {
-            sh 'maven clean compile'
+                bat 'maven clean compile'
                }
             }
         }
      stage('Testing Phase') {
          steps  {
                 withMaven(maven: 'TestMaven') {
-                sh 'maven verify'
+                bat 'maven verify'
                  }
              }
         }
