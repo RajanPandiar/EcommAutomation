@@ -15,7 +15,7 @@ import static com.ecommerce.hema.context.EcommContext.UserTypeEnum.NEWUSER;
 
 
 @RunWith(SerenityRunner.class)
-public class shouldBeAbleToRegisterAsANewUser {
+public class shouldBeAbleToRegisterAsANewUserTest {
 
 
 
